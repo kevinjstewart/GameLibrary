@@ -7,10 +7,7 @@ import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.ScrollPaneConstants;
 
-/**
- * Class: GameFrame
- * @author Kevin Stewart <kevinjstew@gmail.com>
- */
+
 public class ViewPanel extends JPanel {
     
     JTextArea viewPane;
